@@ -2,7 +2,7 @@ WIP Pixel art top-down game developed in Python/Pygame.
 
 Game world designed using Tiled level editor, with open sources assets (primarily https://cupnooble.itch.io and https://pixel-boy.itch.io/ninja-adventure-asset-pack).
 
-Once installed requirements txt file, run game with `python main.py` to start game.
+Once installed requirements txt file `pip install -r core_requirements.txt`, run game with `python main.py` to start game.
 
 Clips below show various features, including: new day transition, tool use interacting with environment (trees), day & weather system, cutscenes & transitions, UIs & NPC interaction, and a useful debug mode, among other things.
 
